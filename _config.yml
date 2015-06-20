@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Lei Zang's Blog
+email:       zanglei.zang@foxmail.com
+author:      Lei Zang
+description: "Lei's Personal Technical Blog"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://github.com/leiatpku"
 
 # Google analytics
 google_analytics:
